@@ -1,0 +1,20 @@
+body{
+	margin:0;
+	font-size: 30px;
+}
+.main{
+	background-color: green;
+	text-align: center;
+	color: white;
+	padding:30px;
+}
+.maintext{
+	background-color: #72ead7;
+	margin: 10px 3px 4px 5px;
+	padding:1px;
+}
+.foot{
+	background-color: green;
+	text-align: center;
+	padding:30px;
+}

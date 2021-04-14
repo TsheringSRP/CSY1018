@@ -1,0 +1,25 @@
+body{}
+.left{float: left; background-color: blue; width: 42%; text-align: center; padding:60px; margin-bottom: 1px;}
+.right{float: left; background-color: green; width: 42%; text-align: center; padding: 60px; margin-bottom: 1px;}
+.leftt{float: left; background-color: blue; width: 10.005%; text-align: center; padding:60px; margin-top: 7px;}
+.rightt{float: left; background-color: green; width: 74.03%; text-align: center; padding:60px; margin-top: 7px;}
+.footer{ background-color: yellow;
+          padding:60px;
+          margin-top: 7px;
+       }
+.mid{
+ background-color: red;
+ width: 99.7%;
+ margin-top: 5px;
+ padding:1px;
+ }	
+.first{
+	float: left;
+	margin: 6px;
+	padding: 1%;
+	/*float: left; */
+	background-color: yellow;
+}
+.clear{ clear: both; }
+/*.second{float: left;}*/
+

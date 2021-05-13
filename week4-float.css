@@ -1,0 +1,8 @@
+body{background-color: #312929;}
+.header{ background-color: #669; height: 50px; margin-top: 9px; padding-left: 25px;}
+.clear{clear: both;}
+.left{ background-color: #69C; height: 525px; width: 50%; float: left; margin-top: -20px;
+       padding-left: 25px; padding-top: 20px;}
+.right{ background-color: #99C; height: 525px; width: 46.6%; float: left; margin-top: -20px;
+        padding-left: 25px;  padding-top: 20px;}
+.footer{ background-color: rgb( 39, 13, 62); height: 42px; margin-top: -20px; padding-top: 100px;  padding-left: 25px; }
